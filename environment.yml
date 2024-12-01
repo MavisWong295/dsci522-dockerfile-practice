@@ -1,0 +1,8 @@
+name: 522_docker
+channels:
+  - conda-forge
+dependencies:
+  - pandas=2.2.3
+  - python=3.12
+  - conda-lock
+prefix: /Users/mavis/miniforge3/envs/522_docker
